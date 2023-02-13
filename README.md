@@ -2,9 +2,13 @@
 
 ### Data : ml-100k (100,000 ratings from 1000 users on 1700 movies.)
 
-### Hypothesis : <img width="402" alt="image" src="https://user-images.githubusercontent.com/42774231/218380301-d88d36ac-b3d7-4b98-bfea-2cf449386d1a.png">
+### Hypothesis : 
 
-### Loss : <img width="657" alt="image" src="https://user-images.githubusercontent.com/42774231/218380327-2d6814bd-c6c7-44f6-92ae-33097896474d.png">
+<img width="402" alt="image" src="https://user-images.githubusercontent.com/42774231/218380301-d88d36ac-b3d7-4b98-bfea-2cf449386d1a.png">
+
+### Loss : 
+
+<img width="657" alt="image" src="https://user-images.githubusercontent.com/42774231/218380327-2d6814bd-c6c7-44f6-92ae-33097896474d.png">
 
 ### Learning Algorithm : Adam
 
