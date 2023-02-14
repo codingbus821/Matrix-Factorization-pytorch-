@@ -12,6 +12,8 @@
 
 ### Learning Algorithm : Adam
 
+### Learning Rate : 0.1
+
 ## Result
 
 ### Factor : 10
